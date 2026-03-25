@@ -1,63 +1,110 @@
-# 👨‍💻 QA Engineer Portfolio
+# 🚀 Suraj Kumar — QA Automation Engineer (Fresher)
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a Software Testing enthusiast with knowledge of Manual Testing and Automation Testing.
-I have experience in writing Test Cases, Bug Reporting, API Testing and UI Automation.
+I am a QA Engineer Intern with a strong interest in Automation Testing and a foundational understanding of Full-Stack Development (MERN).
+I use my knowledge of how applications are built to design effective, stable, and scalable automation and manual testing strategies.
 
 ---
 
-## 🧪 Skills
+## 💼 Professional Experience
 
-* Manual Testing
+**QA Engineer Intern | [Archieve soft design]**
+📅  17Feb 2026 – Present
+
+* Performing Manual and Regression Testing to ensure software quality and stability
+* Identifying, reproducing, and documenting bugs with clear steps and test evidence
+* Understanding Agile sprint workflows and learning automation integration in testing cycles
+
+---
+
+## 🧪 Technical Skills
+
+### ✅ Quality Assurance
+
 * Test Case Design
-* Bug Tracking
-* API Testing using Postman
-* Automation Testing using Playwright / Selenium
-* Basic Performance Testing
-* Git & GitHub
+* STLC Understanding
+* Bug Reporting
+* Black Box Testing
+* Regression / Smoke / Sanity Testing
+
+### 🤖 Automation Testing
+
+* Playwright (JavaScript )
+
+### 🔗 API Testing
+
+* Postman
+* Status Code Validation
+* Payload Testing
+* Basic REST API Validation
 
 ---
 
-## ⚙️ Tools & Technologies
+## 💻 Foundational Full Stack Knowledge (MERN)
 
-* JavaScript
-* Playwright
-* Selenium
-* Postman
-* Chrome DevTools
-* Git
+**Backend:** Node.js, Express.js (Basic Routing, Middleware)
+**Database:** MongoDB (CRUD Operations, Basic Schema Logic)
+**Frontend:** HTML5, CSS3, JavaScript (ES6 Basics)
 
 ---
 
 ## 📂 Projects
 
-### ✅ CRM Testing Project
+### ✅ Sales CRM — End-to-End Functional Testing (Manual)
 
-* Created end-to-end test cases
-* Performed UI and Functional testing
-* Verified Advanced Search and Filters
-* Reported bugs with proper steps
-
-### ✅ Automation Framework (Playwright)
-
-* Built basic automation scripts
-* Implemented slowMo debugging
-* Used screenshots and trace on failure
+* Performed complete End-to-End Functional Testing on major CRM modules
+* Designed and executed functional test cases for User Management, Company Groups, Advanced Search, Filters, and Update workflows
+* Validated Soft Delete functionality and data modification scenarios
+* Conducted Regression Testing after fixes to maintain stability
+* Logged defects with proper reproduction steps and expected vs actual results
+* Verified UI consistency, validations, and end-to-end user flow
 
 ---
 
-## 📊 What I Know
+### ✅ DevTinder — Developer Networking Platform
 
-* SDLC & STLC
-* Smoke / Sanity / Regression Testing
-* Black Box Testing
-* API Status Code Validation
-* Basic Performance Observation
+* Built a social networking application for developers
+* Implemented authentication flow and UI components
+* Understood frontend-backend interaction and user journey
 
 ---
 
-## 📞 Contact
+### ✅ Playwright E2E Automation — To-Do Application
 
-* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* LinkedIn: yourlink
+* Developed an End-to-End automation suite
+* Implemented Page Object Model (POM) structure
+* Automated workflows like task creation, update, and deletion
+
+---
+
+### ✅ Client Service Agency Portal
+
+* Worked on a web portal with secure login and service workflows
+* Focused on user flow validation, session handling, and UI consistency
+
+---
+
+## ⚙️ Tools & Technologies
+
+| Testing Tools | Development (Basic)     | General         |
+| ------------- | ----------------------- | --------------- |
+| Playwright    | Node.js / Express       | Git             |
+| Selenium      | MongoDB                 | Chrome DevTools |
+| Postman       | JavaScript / HTML / CSS | Jira            |
+
+---
+
+## 📊 Core Concepts
+
+* Smoke, Sanity, Regression, UI Functional Testing
+* Agile / Scrum, SDLC, STLC
+* REST API basics and JSON validation
+
+---
+
+## 📞 Let's Connect
+
+📧 Email: [suraj9430kumar94@gmail.com](mailto:suraj9430kumar94@gmail.com)
+💼 LinkedIn: Suraj Kumar
+🐙 GitHub: surajkumargupta383
